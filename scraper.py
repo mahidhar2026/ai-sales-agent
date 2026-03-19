@@ -11,7 +11,7 @@ def get_companies(query):
     edtech = ["Byju's", "Unacademy", "Coursera", "Udemy", "Khan Academy"]
     ai = ["OpenAI", "Anthropic", "Perplexity", "Cohere", "Mistral"]
 
-    # 🔥 simple routing logic
+    
     if "fintech" in query:
         base = fintech
     elif "health" in query:
