@@ -91,9 +91,9 @@ uvicorn app:app --reload
 6. Run frontend
 streamlit run ui.py
 ```
-Design scalable, API-first systems
 
- Acknowledgements
+
+## Acknowledgements
 
 Groq API for fast LLM inference
 
@@ -101,7 +101,7 @@ Streamlit for rapid UI development
 
 FastAPI for lightweight backend
 
- Contact
+## Contact
 
 Feel free to connect or reach out!
 
